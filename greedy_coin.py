@@ -11,3 +11,8 @@ for i in coin_list:
   n -= i*num
 
 print(total)
+
+# 8 to 11 line
+# for i in coin_list
+#   total += n//coin_list
+#   n %= coin

@@ -1,2 +1,2 @@
 language = "bash"
-run = "python greedy_coin.py"
+run = "python greedy_law_of_large_number.py"
