@@ -14,4 +14,4 @@ for i in range(n):
 
 print(max(min_lst))
 
-# 07:06
+#7:6
