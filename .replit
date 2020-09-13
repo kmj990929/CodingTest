@@ -1,2 +1,2 @@
 language = "bash"
-run = "python greedy_card.py"
+run = "python implement_lrud.py"
