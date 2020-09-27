@@ -1,2 +1,2 @@
 language = "bash"
-run = "python implement_lrud.py"
+run = "python queue.py"

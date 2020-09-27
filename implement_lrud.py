@@ -1,4 +1,4 @@
-#Greedy_algorithm
+#implementation
 #이것이 코딩테스트다 4-1.
 
 n = int(input())
